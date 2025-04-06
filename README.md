@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello
+Hello
 
-<!--
-**tapetinu/tapetinu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who are you?
+A random person who happens to like playing osu! and knows a little bit of JavaScript
 
-Here are some ideas to get you started:
+## Why are you here?
+Why not
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## So… any personal website?
+I do have [one](https://tapetinu.github.io), although it's still incomplete due to other IRL stuffs
+
+## Why are you talking to yourself? This is not even a FAQ. No one's asking these questions
+…
